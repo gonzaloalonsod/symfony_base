@@ -7,7 +7,7 @@ Symfony base adds admin user, security, fixture, bootstrap.
 Open a command console, enter your project directory and execute:
 
 ```console
-$ composer require gonzakpo/symfony_base
+$ git clone https://github.com/gonzakpo/symfony_base.git
 ```
 
 ```console
