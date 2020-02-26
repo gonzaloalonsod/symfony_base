@@ -7,11 +7,12 @@ Symfony base adds admin user, security, fixture, bootstrap.
 Open a command console, enter your project directory and execute:
 
 ```console
-$ git clone https://github.com/gonzakpo/symfony_base.git
+git clone https://github.com/gonzakpo/symfony_base.git
+composer install
 ```
 
 ```console
-$ cp .env .env.local
+cp .env .env.local
 ```
 
 Configure:
@@ -19,9 +20,9 @@ SUPER_EMAIL=
 SUPER_PASS=
 
 ```console
-$ symfony console doc:data:create
-$ symfony console doc:sche:create
-$ symfony console doc:fix:load
+symfony console doc:data:create
+symfony console doc:sche:create
+symfony console doc:fix:load
 ```
 
 
