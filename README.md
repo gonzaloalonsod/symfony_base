@@ -8,6 +8,7 @@ Open a command console, enter your project directory and execute:
 
 ```console
 git clone https://github.com/gonzakpo/symfony_base.git
+cd symfony_base
 composer install
 ```
 
