@@ -16,9 +16,9 @@ composer install
 cp .env .env.local
 ```
 
-Configure:
-SUPER_EMAIL=
-SUPER_PASS=
+#### Configure .env.local:
+- SUPER_EMAIL=
+- SUPER_PASS=
 
 ```console
 symfony console doc:data:create
@@ -26,6 +26,9 @@ symfony console doc:sche:create
 symfony console doc:fix:load
 ```
 
+### Use
+- [Symfony](https://symfony.com)
+- [Easy Admin Bundle](https://symfony.com/doc/master/bundles/EasyAdminBundle/index.html)
 
 ## Author
 Gonzalo Alonso - gonkpo@gmail.com
