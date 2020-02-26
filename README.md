@@ -18,7 +18,7 @@ cp .env .env.local
 
 #### Configure .env.local:
 - SUPER_EMAIL=
-- SUPER_PASS=
+- SUPER_PASSWORD=
 
 ```console
 symfony console doc:data:create
