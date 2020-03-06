@@ -33,9 +33,9 @@ symfony console doc:fix:load
     * Kill containers: `docker-compose kill`
     * View container logs: `docker-compose logs`
     * Execute command inside of container: `docker-compose exec SERVICE_NAME COMMAND` where `COMMAND` is whatever you want to run. Examples:
-        * Shell into the PHP container, `docker-compose exec php-fpm bash`
-        * Run symfony console, `docker-compose exec php-fpm bin/console`
-        * Open a mysql shell, `docker-compose exec mysql mysql -uroot -pCHOSEN_ROOT_PASSWORD`
+        * Shell into the PHP container, `docker exec -it symfony-php-fpm bash`
+        * Run symfony console, `docker exec symfony-php-fpm bin/console`
+        * Open a mysql shell, `docker exec symfony-mariadb mysql -uroot -pCHOSEN_ROOT_PASSWORD`
 
 ### Use
 - [Symfony](https://symfony.com)
