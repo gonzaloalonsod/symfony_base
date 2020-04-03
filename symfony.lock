@@ -154,6 +154,9 @@
     "psr/container": {
         "version": "1.0.0"
     },
+    "psr/event-dispatcher": {
+        "version": "1.0.0"
+    },
     "psr/link": {
         "version": "1.0.0"
     },
@@ -201,9 +204,6 @@
         ]
     },
     "symfony/css-selector": {
-        "version": "v4.4.4"
-    },
-    "symfony/debug": {
         "version": "v4.4.4"
     },
     "symfony/debug-bundle": {
@@ -374,9 +374,6 @@
         "version": "v1.14.0"
     },
     "symfony/polyfill-mbstring": {
-        "version": "v1.14.0"
-    },
-    "symfony/polyfill-php72": {
         "version": "v1.14.0"
     },
     "symfony/polyfill-php73": {
