@@ -1,4 +1,4 @@
-# Symfony Base V. 5.0.*
+# Symfony Base V. 5.1.*
 
 Symfony base adds admin user, security, fixture, bootstrap.
 
@@ -7,7 +7,7 @@ Symfony base adds admin user, security, fixture, bootstrap.
 Open a command console, enter your project directory and execute:
 
 ```console
-git clone https://github.com/gonzakpo/symfony_base.git
+git clone https://github.com/gonzaloalonsod/symfony_base.git
 cd symfony_base
 composer install
 ```
@@ -42,4 +42,4 @@ symfony console doc:fix:load
 - [Easy Admin Bundle](https://symfony.com/doc/master/bundles/EasyAdminBundle/index.html)
 
 ## Author
-Gonzalo Alonso - gonkpo@gmail.com
+Gonzalo Alonso - gonzaloalonsod@gmail.com
