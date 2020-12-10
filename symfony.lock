@@ -404,9 +404,6 @@
     "symfony/options-resolver": {
         "version": "v4.4.4"
     },
-    "symfony/orm-pack": {
-        "version": "v1.0.8"
-    },
     "symfony/phpunit-bridge": {
         "version": "4.3",
         "recipe": {
