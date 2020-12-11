@@ -44,3 +44,6 @@ symfony console doc:fix:load
 
 ## Author
 Gonzalo Alonso - gonzaloalonsod@gmail.com
+
+## Contributors
+Felix Barros - soyFelixBarros@gmail.com
