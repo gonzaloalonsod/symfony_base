@@ -43,8 +43,8 @@ symfony console doc:fix:load
 - [Easy Admin Bundle](https://symfony.com/doc/master/bundles/EasyAdminBundle/index.html)
 
 ## Author
-Gonzalo Alonso - gonzaloalonsod@gmail.com
+- Gonzalo Alonso - gonzaloalonsod@gmail.com
 
 ## Contributors
-Felix Barros - soyFelixBarros@gmail.com
-Fabian Serafini - elfabi87@gmail.com
+- Felix Barros - soyFelixBarros@gmail.com
+- Fabian Serafini - elfabi87@gmail.com
