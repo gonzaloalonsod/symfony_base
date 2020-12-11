@@ -1,4 +1,4 @@
-# Symfony Base V. 5.1.*
+# Symfony Base V. 5.2.*
 
 Symfony base adds admin user, security, fixture, bootstrap.
 
