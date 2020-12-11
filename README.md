@@ -13,7 +13,8 @@ composer install
 ```
 
 ```console
-cp .env .env.local
+composer dump-env prod
+# cp .env .env.local
 ```
 
 #### Configure .env.local:
