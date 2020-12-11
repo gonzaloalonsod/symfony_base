@@ -47,3 +47,4 @@ Gonzalo Alonso - gonzaloalonsod@gmail.com
 
 ## Contributors
 Felix Barros - soyFelixBarros@gmail.com
+Fabian Serafini - elfabi87@gmail.com
