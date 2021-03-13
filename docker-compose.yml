@@ -9,9 +9,9 @@ services:
         - .:/application
       environment:
         - MYSQL_ROOT_PASSWORD=root
-        - MYSQL_DATABASE=symfony
-        - MYSQL_USER=demo
-        - MYSQL_PASSWORD=demo
+        - MYSQL_DATABASE=docker_symfony_base
+        - MYSQL_USER=docker_user
+        - MYSQL_PASSWORD=docker_pass
       ports:
         - "8083:3306"
 
