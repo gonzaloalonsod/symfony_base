@@ -22,10 +22,10 @@ class UserFixtures extends Fixture
     public function load(ObjectManager $manager)
     {
         $user = new User();
-        $user->setEmail($this->params->get('superEmail'));
+        $user->setEmail($this->params->get('SUPER_EMAIL'));
         $user->setPassword($this->passwordEncoder->encodePassword(
             $user,
-            $this->params->get('superPassword')
+            $this->params->get('SUPER_PASSWORD')
         ));
         $user->setRoles(['ROLE_SUPER_ADMIN']);
 
