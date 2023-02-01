@@ -33,7 +33,7 @@
         "symfony/mailer": "5.2.*",
         "symfony/monolog-bundle": "^3.1",
         "symfony/process": "5.2.*",
-        "symfony/security-bundle": "5.2.*",
+        "symfony/security-bundle": "5.4.*",
         "symfony/serializer-pack": "*",
         "symfony/translation": "5.2.*",
         "symfony/twig-pack": "*",
